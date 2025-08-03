@@ -33,7 +33,7 @@ Currently pursuing Computer Science and Engineering with a focus in Artificial I
 ## 🚀 Tech Stack & Skills
 
 - **Web Development:**  
-  HTML | CSS | JavaScript (Basics)
+  HTML | CSS | JavaScript
 - **Programming Languages:**  
   C | Java
 - **Currently Exploring:**  
